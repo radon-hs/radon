@@ -1,3 +1,6 @@
 [submodule "radon-base"]
 	path = radon-base
 	url = https://github.com/radon-hs/radon-base.git
+[submodule "radon-2d"]
+	path = radon-2d
+	url = https://github.com/radon-hs/radon-2d.git
